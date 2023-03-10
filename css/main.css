@@ -2029,7 +2029,7 @@ input[type="button"].btn-block {
       #kig-widget .hide-large {
         display: block; } }
   #kig-widget .container-fluid {
-    max-width: 620px;
+    max-width: 850px; /* was 620px; */
     margin: 0 auto;
     padding: 0; }
   #kig-widget .wrap {
